@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 fff
 ss
+=======
+managments
+>>>>>>> Stashed changes
 =======
 managments
 >>>>>>> Stashed changes
